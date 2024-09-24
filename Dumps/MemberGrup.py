@@ -1,5 +1,4 @@
 # Author: Fajarkyy
-# Deskripsi: Dump data anggota grup Facebook ini hanya mencakup ID profil dan nama anggota. Data ini dapat digunakan untuk analisis dasar atau tujuan administrasi grup. Harap mematuhi kebijakan privasi Facebook dan peraturan yang berlaku saat menggunakan data ini.
 
 import requests
 import json
