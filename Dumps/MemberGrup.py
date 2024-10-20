@@ -41,7 +41,7 @@ def Loop_Dump(user, token, cursor=None):
             "client_trace_id": "d29a9e65-3e76-4f99-9e0f-0b2302cfc266"
         }
         response = requests.post(
-            'https://graph.facebook.com/graphql?_nc_eh=2,1eece1416c33feeaa854c6ff886d985f,AeswYXoIU_9WDT309qN18AnjXjMmDIgBERLHeOrjD9MbX-ZBQx3Ro9hZApSiBdTqiGE',
+            'https://graph.facebook.com/graphql',
             data=data
         ).json()
         
